@@ -24,7 +24,7 @@
 
 <p align="center">
     <img src="https://img.shields.io/badge/gender-%F0%9F%A4%B5 gentleman-critical">
-    <img src="https://img.shields.io/static/v1?label=Location&message=Tokyo&color=7BB32E&logo=audacity">
+    <img src="https://img.shields.io/static/v1?label=Location&message=Toronto&color=7BB32E&logo=audacity">
 </p>
 
 <br/>
@@ -34,7 +34,7 @@
 >
 > -- <cite><em>Benjamin Franklin</em></cite>
 
-<!-- ## 👨‍💻 My GitHub activities of last 31 days. -->
+<!-- ## 👨‍💻 My GitHub activities of the last 31 days. -->
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <!-- ![pudongping's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kalfazed&theme=react-dark&area=true&custom_title=kalfazed's%20Contribution%20Graph) -->
@@ -43,7 +43,7 @@
   <img src="https://github-readme-stats-amber-xi-40.vercel.app/api?username=kalfazed&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </div>
 
-## 📘 My own favorite open source projects
+## 📘 My favorite open-source projects
 
 <!-- GitHub Extra Pins - https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
