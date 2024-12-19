@@ -36,11 +36,37 @@
 
 <!-- ## 👨‍💻 My GitHub activities of the last 31 days. -->
 
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<!-- ![pudongping's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kalfazed&theme=react-dark&area=true&custom_title=kalfazed's%20Contribution%20Graph) -->
-
 <div align="center">
   <img src="https://github-readme-stats-amber-xi-40.vercel.app/api?username=kalfazed&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+</div>
+
+In 2024, I focused on contributing to the development of several software frameworks, including:
+- Model training framework for autonomous driving
+- Model deployment framework for edge computing
+- MLOps framework 
+- Optimization toolkit
+
+The **Model Training Framework for Autonomous Driving** I developed supports a variety of tasks, 
+such as 2D/3D object detection, depth estimation, instance and semantic segmentation, and optical 
+flow estimation. This framework is designed to facilitate efficient model training for autonomous 
+driving applications, covering critical computer vision tasks.
+
+On the **deployment side**, I worked on the Model Deployment Framework for Edge Computing, 
+optimizing models to meet the constraints of edge devices. To achieve this, I applied techniques 
+like quantization, pruning, and re-parameterization, all aimed at reducing model size and improving 
+inference performance. These optimizations ensure that the models can be efficiently deployed on 
+resource-constrained devices, making them suitable for real-time edge applications.
+
+Additionally, I developed an **Optimization Toolkit**, which offers a set of tools and libraries 
+designed to enhance program performance. The toolkit includes customized PyTorch operations, a 
+lightweight visualizer, and a high-performance parser, and so on. All aimed at improving the 
+efficiency of both model training and deployment workflows.
+
+For more details about my work and projects, please visit [my profile](https://kalfazed.github.io/).
+
+
+<div align="center">
+ <img src="https://github-readme-stats-amber-xi-40.vercel.app/api/wakatime?username=kalfazed&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&display_format=percent&langs_count=10&v=2" />
 </div>
 
 ## 📘 My favorite open-source projects
