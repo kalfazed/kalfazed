@@ -36,9 +36,9 @@
 
 <!-- ## 👨‍💻 My GitHub activities of the last 31 days. -->
 
-<div align="center">
-  <img src="https://github-readme-stats-amber-xi-40.vercel.app/api?username=kalfazed&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-</div>
+<!-- <div align="center"> -->
+<!--   <img src="https://github-readme-stats-amber-xi-40.vercel.app/api?username=kalfazed&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /> -->
+<!-- </div> -->
 
 In 2024, I focused on contributing to the development of several software frameworks, including:
 - Model training framework for autonomous driving
