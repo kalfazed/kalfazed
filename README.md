@@ -40,15 +40,16 @@
 <!--   <img src="https://github-readme-stats-amber-xi-40.vercel.app/api?username=kalfazed&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /> -->
 <!-- </div> -->
 
-In 2024, I focused on contributing to the development of several software frameworks, including:
+In recent two years, I focused on contributing to the development of several software frameworks, including:
 - Model training framework for autonomous driving
 - Model deployment framework for edge computing
 - MLOps framework 
 - Optimization toolkit
 
 The **Model Training Framework for Autonomous Driving** I developed supports a variety of tasks, 
-such as 2D/3D object detection, depth estimation, instance and semantic segmentation, and optical 
-flow estimation. This framework is designed to facilitate efficient model training for autonomous 
+such as E2E model development, Closed-loop simulation, 2D/3D object detection, depth estimation, 
+instance and semantic segmentation, and optical flow estimation. 
+This framework is designed to facilitate efficient model training for autonomous 
 driving applications, covering critical computer vision tasks.
 
 On the **deployment side**, I worked on the Model Deployment Framework for Edge Computing, 
